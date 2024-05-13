@@ -1,6 +1,7 @@
 # Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # Name: HARISH S
 # Register No: 212223230072
+# DATE: 
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
